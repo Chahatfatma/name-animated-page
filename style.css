@@ -177,7 +177,7 @@ section .detel h1 {
 }
 .text-box {
   padding: 0 6vw;
-  padding-top: 6vw;
+  padding-top: 4vw;
 }
 .text-box h1 {
   font-size: 10vw;
@@ -214,7 +214,7 @@ section .detel h1 {
   align-items: center;
   color: #17abd0;
   background-color: #ffffff5d;
-  margin-bottom: 2rem;
+  margin-bottom: 1.3rem;
 }
 .text-box a:hover {
   color: #fff;
@@ -249,7 +249,7 @@ section .detel h1 {
 }
 .name {
   display: flex;
-  margin-bottom: 2rem;
+  margin-bottom: 10px;
 }
 .waviy {
   position: relative;
@@ -264,7 +264,7 @@ section .detel h1 {
 .text-box h3 {
   color: #514e4e;
   font-size: 1.5vw;
-  margin-top: 2rem;
+  margin-top: 1.5rem;
 }
 .waviy span {
   position: relative;
@@ -357,6 +357,6 @@ section .detel h1 {
 }
 @media (max-width: 334px) {
   .text-box a {
-    font-size: 7px;
+    font-size: 6px;
   }
 }
